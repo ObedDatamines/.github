@@ -1,4 +1,6 @@
 ## Hi there 👋
+- [Our Telegram](https://t.me/datamines)
+- [ObedClash](https://github.com/ObedDatamines/obedclash)
 
 <!--
 
